@@ -7,14 +7,16 @@ I'm a passionate full-stack developer and designer, blending creativity with tec
 - 📧 Email: patrykr124@gmail.com
 
 ### 🛠 Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-red?logo=nestjs&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-orange?logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SaaS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+</p>
 
 ### 💡 Areas of Interest:
 - 🚀 Collaborating with startups to build innovative solutions
