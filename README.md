@@ -7,7 +7,7 @@ I'm a passionate full-stack developer and designer, blending creativity with tec
 - 📧 Email: patrykr124@gmail.com
 
 ### 🛠 Languages and Tools:
-<p align="left" style="display: flex; gap: 12;">
+<p align="left" style="display: flex; gap: 12px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
