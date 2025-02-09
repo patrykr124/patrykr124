@@ -21,7 +21,7 @@ I'm a passionate full-stack developer and designer, blending creativity with tec
 ### 💡 Areas of Interest:
 - 🚀 Collaborating with startups to build innovative solutions
 - 🛡 Cybersecurity and improving application security
-- 💻 Developing SaaS (Software as a Service) applications
+- 💻 Developing SaaS applications
 - 🎨 Designing user-friendly interfaces and experiences
 
 ---
