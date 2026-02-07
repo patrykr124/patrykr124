@@ -4,7 +4,7 @@ I'm a passionate full-stack developer and designer, blending creativity with tec
 
 ### 📬 Get in Touch:
 - 📍 Location: Poland || remote
-- 📧 Email: patrykr124@gmail.com
+- https://www.linkedin.com/in/patryk-r%C3%B3%C5%BCycki-593430261/
 
 ### 🛠 Languages and Tools:
 <p align="left">
