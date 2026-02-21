@@ -29,6 +29,4 @@ I'm a passionate full-stack developer and designer, blending creativity with tec
 - 💻 Developing SaaS applications
 - 🎨 Designing user-friendly interfaces and experiences
 
----
-
 I’m always open to exciting projects and opportunities to grow. Let’s create something amazing together!
